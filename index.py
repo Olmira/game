@@ -28,7 +28,6 @@ def game(nom_pays='France'):
 country_name = st.text_input("Rentrer le nom de votre pays (en anglais):")
 st.write(game(country_name))
 
-
 # Simple pygame program
 
 # Import and initialize the pygame library
